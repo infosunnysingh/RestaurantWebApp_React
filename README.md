@@ -1,3 +1,5 @@
+![image](https://github.com/infosunnysingh/RestaurantApp/assets/79641266/f5e8d586-0725-468f-ab8b-7d8dbc0a9e9b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
